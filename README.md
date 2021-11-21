@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a simple automation tests uses Selenium Webdriver, PageObjectModel (PageFactory) for a demo website.
+This is a simple automation tests uses Selenium Webdriver, PageObjectModel for a demo website.
 
 # Reference links
 
